@@ -4,11 +4,29 @@
 
 ![Github License](https://img.shields.io/github/license/AbdElAziz333/Canary)
 ![Github Issues](https://img.shields.io/github/issues/AbdElAziz333/Canary)
-![Curseforge Downloads](https://cf.way2muchnoise.eu/full_665658_downloads.svg)
+![Github Versions](https://img.shields.io/github/v/tag/AbdElAziz333/Canary)
 [![Architectury Forge Loom](https://img.shields.io/badge/Built%20With-Architectury%20Forge%20Loom-aqua)](https://github.com/architectury/architectury-loom)
 [![This is a Fork](https://img.shields.io/badge/This%20is%20port-Support%20the%20original!-darkmagenta)](https://github.com/CaffeineMC/lithium-fabric)
 
 Canary is a general-purpose optimization mod and unofficial fork of the Fabric mod [Lithium](https://github.com/CaffeineMC/lithium-fabric) for Minecraft Forge, This mod aims to optimize the general performance of Minecraft(mob ai, physics, chunk loading, etc..) without changing any behavior. It works on both the **client and server**, and **doesn't require the mod to be installed on both sides**.
+
+# Installation
+
+### Manual Installation
+
+![Curseforge Versions](https://cf.way2muchnoise.eu/versions/canary.svg)
+
+Canary supports Minecraft Forge 1.18.2 and up, So make sure you have the latest version of Forge present and simply drop the mod into your mods folder, no other mods or additional setup is required!
+
+### Curseforge Client
+
+![Curseforge Downloads](https://cf.way2muchnoise.eu/full_665658_downloads.svg)
+
+If you are using Curseforge Client, you can continue downloading Canary through my [Curseforge page](https://www.curseforge.com/minecraft/mc-mods/canary).
+
+### Github Actions
+
+Github Actions builds will be available soon.
 
 ### What makes Canary different?
 
